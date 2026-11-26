@@ -1,0 +1,1 @@
+My AI agent is so confident it once explained my own code back to me — wrong, in 47 bullet points, with citations.
